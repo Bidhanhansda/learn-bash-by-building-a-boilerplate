@@ -218,3 +218,10 @@ ls --color=auto
 list
 ls --color=auto
 ls --color=auto
+ls --color=auto
+ls --color=auto
+cd images/
+cd ..
+ls --color=auto
+cd /workspace/project/website
+ls --color=auto
