@@ -289,3 +289,11 @@ ls --color=auto
 cd images/
 ls --color=auto
 mv header.png website
+ls --color=auto
+ls --color=auto
+cd website
+ls --color=auto
+mv website header.png
+mv header.png ..
+ls --color=auto
+ls --color=auto
