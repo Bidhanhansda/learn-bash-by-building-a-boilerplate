@@ -87,3 +87,8 @@ ls --color=auto
 ls --color=auto -l
 cd has
 ls --color=auto
+cd README.md
+cd README
+more README > MS
+more README.MD
+more README.md
