@@ -70,3 +70,4 @@ echo hello terminal
 pd
 pwd
 ls --color=auto
+cd freeCodeCamp/
