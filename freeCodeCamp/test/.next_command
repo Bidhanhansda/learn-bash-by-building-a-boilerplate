@@ -117,3 +117,15 @@ cd website/
 ls --color=auto
 echo hello world
 echo hello website
+ls --color=auto
+mkdir index.html
+ls --color=auto
+rm -rf index.js
+ls --color=auto
+rm index.js
+rm -rf index.html
+ls --color=auto
+clear
+touch index.js
+rm -rf index.js
+touch index.html
