@@ -129,3 +129,4 @@ clear
 touch index.js
 rm -rf index.js
 touch index.html
+touch styles.css
