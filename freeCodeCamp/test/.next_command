@@ -314,3 +314,5 @@ __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 mv images/footer.jpeg client/assets/images/
 find
+ls --color=auto
+rmdir images
