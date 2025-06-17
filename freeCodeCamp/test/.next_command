@@ -226,3 +226,4 @@ ls --color=auto
 cd /workspace/project/website
 ls --color=auto
 mv roboto.font roboto.woff
+ls --color=auto
