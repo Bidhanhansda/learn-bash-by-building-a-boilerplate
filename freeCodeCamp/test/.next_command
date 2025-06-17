@@ -373,3 +373,9 @@ ls --color=auto
 ls --color=auto
 ls --color=auto
 ls --color=auto
+copy --help
+help
+cd --help
+clear
+cd --help
+cp --help
