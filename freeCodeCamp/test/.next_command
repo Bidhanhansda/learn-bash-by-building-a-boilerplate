@@ -247,3 +247,4 @@ cd client/
 find
 cd ..
 find
+mv index.js client/src/
