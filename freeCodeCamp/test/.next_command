@@ -281,3 +281,7 @@ cd ..
 cd ..
 cd ..
 ls --color=auto
+cd client/
+cd assets/
+cd images/
+cd ../../..
