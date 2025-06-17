@@ -258,3 +258,7 @@ find
 clear
 find
 find client/
+help find
+info find
+help
+find --help
